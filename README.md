@@ -46,7 +46,7 @@ const people = [
 ];
 ```
 
-**\*Expected Results:**
+**Expected Results:**
 
 ```js
 console.log(youngPeople);
